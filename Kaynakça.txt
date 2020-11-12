@@ -1,0 +1,10 @@
+https://www.kodlamamerkezi.com/c-net/c-ile-dosya-okuma-ve-yazma-islemleri/
+https://www.gencayyildiz.com/blog/cta-icloneable-interfacei-ile-nesne-kopyalama/
+https://www.kodlamamerkezi.com/c-net/c-mesaj-penceresi-messagebox-kullanimi/
+http://blogherseydir.blogspot.com/2018/01/c-butonun-kenarlk-rengini-kaldrma.html
+http://www.mustafakarsli.com/makale/84/C-Sharp/Form-1-den-Form-2-ye-Deger-Gonderme.html
+https://www.yazilimkodlama.com/programlama/c-xml-veri-cekme-ekleme-guncelleme-silme/
+https://www.algoritmaornekleri.com/c-sharp/c-txt-dosyasi-icerigini-okuma-ve-yazma/
+http://www.hdteknohaber.com/bitmap-sinifi-rgb-ve-dpi-kavrami/
+http://safakunel.blogspot.com/2009/10/kod-ile-kontrole-event-handler-ekleme.html
+https://www.c-sharpcorner.com/uploadfile/prathore/image-comparison-using-C-Sharp/
